@@ -11,6 +11,7 @@
     "better-scroll": "^1.8.1",
     "core-js": "^3.6.4",
     "vue": "^3.0.0-beta.1",
+    "vue-awesome-swiper": "^2.6.7",
     "vue-router": "^4.0.0-alpha.5",
     "vuex": "^4.0.0-alpha.1"
   },
@@ -25,3 +26,4 @@
     "vue-cli-plugin-vue-next": "~0.1.2"
   }
 }
+  
